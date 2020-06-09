@@ -8,7 +8,7 @@
 
 1. 下载并启动 https://github.com/Binaryify/NeteaseCloudMusicApi 项目
 2. 进入NeteaseCloudMusicApi项目，将songReverse.js拷贝到NeteaseCloudMusicApi项目的test目录中
-3. 修改下面4个配置项：
+3. 修改下面4个配置项后，通过node运行songReverse.js：
 ```
 const phone = '15733100700';            // 手机号
 const password = '123';                 // 密码
